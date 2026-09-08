@@ -1,0 +1,8 @@
+segmentation/mask2former/data/
+**/checkpoints*/
+**/*.pth
+**/*.pth.tar
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
